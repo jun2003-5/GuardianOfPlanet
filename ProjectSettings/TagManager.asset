@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - enemy
+  - PopupParent
+  - Weapon
+  - MainWeapon
+  - EquipManager
+  - MaterialPopUpPos
+  - UpgradeStoneManager
+  - CraftingManagerRing
+  - CraftingManagerNecklace
+  - DrillStoneManager
+  - Stone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Laser
+  - Water
+  - UI
+  - Bullet
+  - Player
+  - Enemy
+  - Material
+  - AutoRange
+  - Stone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 3132632285
+    locked: 0
+  - name: Mine
+    uniqueID: 273166855
+    locked: 0
+  - name: Poison
+    uniqueID: 1490610685
+    locked: 0
+  - name: Enemy
+    uniqueID: 311833891
+    locked: 0
+  - name: Boss
+    uniqueID: 3191058579
+    locked: 0
+  - name: Weapons
+    uniqueID: 2631890043
+    locked: 0
+  - name: Bullets
+    uniqueID: 1553588585
+    locked: 0
+  - name: Material
+    uniqueID: 2979877055
+    locked: 0
+  - name: damagePopUp
+    uniqueID: 1565270361
+    locked: 0
+  - name: moneyPopUp
+    uniqueID: 2952579323
+    locked: 0

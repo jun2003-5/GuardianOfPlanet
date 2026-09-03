@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2004707252642796035
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8475273986658578549}
+  - component: {fileID: 6139215127182599361}
+  m_Layer: 5
+  m_Name: Accessory(normal) 6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &8475273986658578549
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2004707252642796035}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &6139215127182599361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2004707252642796035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f40d51ed1e43c9a4a96ff98c6caff9a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 5277c7e7-63be-46e1-9535-6ba95f5eebf2
+  EquipName: "\uB098\uBB34 \uBC29\uD328"
+  baseOption:
+    option:
+      damage: 0
+      damagePercent: 0
+      AttackSpeed: 0
+      BulletSpeed: 0
+      CritChance: 7
+      CritDamage: 0.11
+      StunPercent: 0
+      ExtraEXP: 0
+      ExtraMoney: 0
+  extraOption:
+    option:
+      damage: 0
+      damagePercent: 0
+      AttackSpeed: 0
+      BulletSpeed: 0
+      CritChance: 0
+      CritDamage: 0
+      StunPercent: 0
+      ExtraEXP: 0
+      ExtraMoney: 0
+  FinalOption:
+    option:
+      damage: 0
+      damagePercent: 0
+      AttackSpeed: 0
+      BulletSpeed: 0
+      CritChance: 0
+      CritDamage: 0
+      StunPercent: 0
+      ExtraEXP: 0
+      ExtraMoney: 0
+  Grade: 0
+  TypeOfEquip: 3
+  setType: 8
+  Level: 0
+  AmountOfEquip: 0
+  RequiredAmountForMerge: 0
+  Sprite_Equip: {fileID: 21300000, guid: bc233c8b071004b488ed7d809e554313, type: 3}
+  UpgradeIndex:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  gradeText: 
+  EquipStatsText: 

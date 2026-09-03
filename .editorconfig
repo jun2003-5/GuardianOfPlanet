@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0436: 형식이 가져온 형식과 충돌합니다.
+dotnet_diagnostic.CS0436.severity = none
