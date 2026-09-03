@@ -72,12 +72,12 @@ My first game used purely local device storage, which led to repeated data-corru
 
 ## 📸 Screenshots
 
-![Main Screen](screenshots/1.png)
-![Main Stage](screenshots/2.png)
-![Item Gacha](screenshots/3.png)
-![Mining System](screenshots/4.png)
-![Equipment Upgrade](screenshots/5.png)
-![Monster Collection](screenshots/6.png)
+![Main Screen](screenshots/1.jpg)
+![Main Stage](screenshots/2.jpg)
+![Item Gacha](screenshots/3.jpg)
+![Mining System](screenshots/4.jpg)
+![Equipment Upgrade](screenshots/5.jpg)
+![Monster Collection](screenshots/6.jpg)
 ![Game Icon](screenshots/7.png)
 
 ---
