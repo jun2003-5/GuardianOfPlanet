@@ -87,7 +87,7 @@ My first game used purely local device storage, which led to repeated data-corru
 | Item | Details |
 |---|---|
 | Platforms | Google Play Store, Apple App Store |
-| Revenue | Google Play Store: ₩96,000 · Apple App Store: $159 (≈ ₩215,600) |
+| Revenue | Google Play Store: ₩96,000 · Apple App Store: ₩156,130 |
 | Post-launch | Continued iteration based on user reviews and beta/live player feedback |
 | Current status | Removed from both stores due to a policy change that took effect while the developer was serving mandatory military service; currently not listed on any storefront |
 
